@@ -1,6 +1,6 @@
 {
   "name": "spotimute",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatically mutes spotify when an ad comes on, and then unmutes it when it is over. Only works on OSX.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,14 @@
   "bin": {
     "spotimute": "./index.js"
   },
-  "keywords": ["spotify", "mute", "ad", "advertisement", "commercial", "volume"],
+  "keywords": [
+    "spotify",
+    "mute",
+    "ad",
+    "advertisement",
+    "commercial",
+    "volume"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/hesto2/spotimute.git"
