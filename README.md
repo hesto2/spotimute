@@ -5,7 +5,7 @@ Only works on OSX since it leverages applescript. If you find a way to do a simi
 ## Installation
 `brew install shpotify`
 
-`npm install spotimute`
+`npm install -g spotimute`
 
 ## Running
 To run it, simply use the command `spotimute`. If you want it to run in the background, just add a `&` to the end of the command.
