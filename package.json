@@ -1,6 +1,6 @@
 {
   "name": "spotimute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically mutes spotify when an ad comes on, and then unmutes it when it is over. Only works on OSX.",
   "main": "index.js",
   "scripts": {
